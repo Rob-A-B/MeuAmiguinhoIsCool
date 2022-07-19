@@ -1,0 +1,12 @@
+mitocondria
+citosol 
+reticulo endoplasmatico liso
+reticulo endoplasmatico rugoso
+complexo de golgi
+lisossomo
+peroxissomo
+nucleo
+centriolo
+ribossomo
+vacuolo
+plasto
